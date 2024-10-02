@@ -378,3 +378,247 @@
 - **Cost cap:** Facebook tries to keep the average cost per result below the cap you set.
 - **Target cost:** Facebook maintains stable costs per result throughout the campaign.
 - **Value optimization:** Facebook focuses on maximizing the conversion value from your ads.
+- 
+
+
+## **Google Ads Interview Questions and Answers**
+
+### 91. **What is Google Ads, and how does it work?**
+**Answer:** Google Ads is an online advertising platform developed by Google, where advertisers can bid to display ads, service offerings, product listings, or videos to web users. It works on a pay-per-click (PPC) model, where advertisers pay each time a user clicks on their ad. Google Ads helps businesses reach their target audience across Google Search, YouTube, and Google’s Display Network.
+
+### 92. **What is a Quality Score in Google Ads, and why is it important?**
+**Answer:** Quality Score is a metric used by Google to evaluate the relevance and quality of your ads, keywords, and landing pages. It affects your Ad Rank and CPC (cost-per-click). A higher Quality Score leads to better ad positions at lower costs, as Google rewards ads that provide a good user experience and are relevant to the search query.
+
+### 93. **What are the different types of Google Ads campaigns?**
+**Answer:** The different types of Google Ads campaigns include:
+- **Search Campaigns:** Text ads that appear on Google’s search results pages.
+- **Display Campaigns:** Visual banner ads shown on websites in the Google Display Network.
+- **Video Campaigns:** Ads shown on YouTube or other video partner sites.
+- **Shopping Campaigns:** Ads that showcase product listings for eCommerce businesses.
+- **App Campaigns:** Ads designed to promote mobile app installations across Google’s platforms.
+- **Local Campaigns:** Ads designed to drive traffic to a physical location.
+
+### 94. **What is the difference between Search and Display campaigns in Google Ads?**
+**Answer:**
+- **Search Campaigns:** These show text-based ads on Google’s search engine results pages (SERPs) when users search for specific keywords.
+- **Display Campaigns:** These show visual ads (images or banners) on websites across the Google Display Network, targeting users based on their behavior, demographics, or interests.
+
+### 95. **What is a keyword match type in Google Ads?**
+**Answer:** Keyword match types determine how closely a user’s search query must match your keyword for your ad to be shown. The main match types are:
+- **Broad Match:** Ads show for searches related to your keyword, even if they don't contain the exact term.
+- **Phrase Match:** Ads show for searches that include your keyword in the exact order.
+- **Exact Match:** Ads show for searches that match your keyword exactly or closely.
+- **Broad Match Modifier (discontinued):** Allowed advertisers to lock specific words in a broad match keyword.
+
+### 96. **What is Ad Rank in Google Ads, and how is it calculated?**
+**Answer:** Ad Rank determines the position of your ad on the search results page. It is calculated based on your bid amount, Quality Score, and the expected impact of ad extensions and other ad formats. Ad Rank helps ensure that ads that provide the best user experience appear higher on the page.
+
+### 97. **How do you conduct keyword research for Google Ads?**
+**Answer:** To conduct keyword research for Google Ads:
+1. Use tools like **Google Keyword Planner** to discover relevant keywords for your products/services.
+2. Analyze search volume, competition, and CPC for each keyword.
+3. Consider user intent to choose keywords that are likely to drive conversions.
+4. Use a mix of broad, phrase, and exact match keywords to reach different segments of your audience.
+
+### 98. **What is the Google Ads auction process?**
+**Answer:** Google Ads runs an auction every time a user performs a search. Advertisers bidding on the keywords in the search compete for ad placement. Google determines the winners based on their **Ad Rank**, which considers the bid amount, Quality Score, and ad relevance. The winning ads are displayed on the search results page in the order of their Ad Rank.
+
+### 99. **What is cost-per-click (CPC), and how is it calculated in Google Ads?**
+**Answer:** Cost-per-click (CPC) is the amount you pay each time someone clicks on your ad. CPC is calculated by dividing the total cost of your ad campaign by the number of clicks received. It is influenced by factors like your bid, competition, and Quality Score.
+
+### 100. **How do you set a bid strategy in Google Ads?**
+**Answer:** To set a bid strategy in Google Ads, you can choose between automated and manual bidding options:
+- **Manual CPC:** You set your maximum cost-per-click for each keyword.
+- **Enhanced CPC (ECPC):** Adjusts your manual bids to increase conversions.
+- **Target CPA (Cost-per-acquisition):** Automatically sets bids to get as many conversions as possible at your target cost-per-acquisition.
+- **Maximize Conversions:** Automatically sets bids to maximize conversions within your budget.
+- **Target ROAS (Return on Ad Spend):** Optimizes bids to achieve a target return on ad spend.
+
+### 101. **What is a broad match keyword in Google Ads?**
+**Answer:** A broad match keyword allows your ad to appear for searches that include misspellings, synonyms, related searches, and other variations of your keyword. It provides the widest reach but may result in less targeted traffic compared to phrase or exact match keywords.
+
+### 102. **What is a negative keyword in Google Ads, and how is it used?**
+**Answer:** A negative keyword is a term that you exclude from your campaign to prevent your ads from showing for irrelevant searches. For example, if you're selling premium shoes, you can add "cheap" as a negative keyword to avoid clicks from users looking for low-cost products.
+
+### 103. **What is a landing page experience, and why does it matter in Google Ads?**
+**Answer:** Landing page experience refers to how relevant, useful, and easy-to-navigate your landing page is for users who click your ad. It matters because it impacts your Quality Score and Ad Rank. A good landing page experience increases conversions and lowers your CPC.
+
+### 104. **What is the difference between cost-per-click (CPC) and cost-per-thousand-impressions (CPM) in Google Ads?**
+**Answer:**
+- **CPC (Cost-per-click):** You pay each time someone clicks on your ad.
+- **CPM (Cost-per-thousand-impressions):** You pay for every 1,000 times your ad is shown, regardless of whether it’s clicked.
+
+### 105. **What are responsive search ads in Google Ads?**
+**Answer:** Responsive search ads allow you to create multiple headlines and descriptions for an ad. Google then dynamically combines them in various ways to determine the best-performing ad combinations for different users, optimizing for the best CTR and conversions.
+
+### 106. **What are dynamic search ads in Google Ads?**
+**Answer:** Dynamic search ads automatically generate ad headlines and landing pages based on the content of your website. They are useful for advertisers with large inventories or for websites with frequently changing content, as they help capture search queries that you may not have anticipated.
+
+### 107. **How do you track conversions in Google Ads?**
+**Answer:** You can track conversions in Google Ads by setting up **conversion tracking**. This involves placing a small piece of code (conversion tag) on your website’s "thank you" page or installing Google Analytics to track the actions users take after clicking your ad, such as making a purchase or signing up for a newsletter.
+
+### 108. **What is ad extension in Google Ads, and what are its types?**
+**Answer:** Ad extensions provide additional information about your business within your ad, making it more appealing and informative. The main types of ad extensions are:
+- **Sitelink extensions:** Add extra links to your ad, directing users to specific pages.
+- **Callout extensions:** Highlight specific offers or unique selling points.
+- **Call extensions:** Add a phone number to your ad, encouraging users to call your business.
+- **Location extensions:** Show your business address and direct users to a physical location.
+- **App extensions:** Promote your app by linking to the app store.
+
+### 109. **How do you improve your Quality Score in Google Ads?**
+**Answer:** To improve your Quality Score:
+- Optimize your landing page for relevance, speed, and user experience.
+- Use highly relevant keywords in your ad copy.
+- Group your keywords into tightly themed ad groups.
+- Test different ad formats and extensions to improve CTR.
+- Regularly update and refine your ad copy to ensure it aligns with user intent.
+
+### 110. **What is Google Ads remarketing?**
+**Answer:** Google Ads remarketing is a strategy that allows you to show ads to users who have previously visited your website or used your mobile app. It helps bring potential customers back by keeping your brand top-of-mind as they browse other websites or apps in the Google Display Network.
+
+### 111. **How do you optimize a Google Ads campaign for a better CTR?**
+**Answer:** To optimize a Google Ads campaign for a better click-through rate (CTR):
+- Use relevant keywords and match types to target the right audience.
+- Write compelling and clear ad copy with a strong call-to-action (CTA).
+- Include ad extensions like sitelinks and callouts to make the ad more informative.
+- Regularly A/B test different headlines, descriptions, and formats.
+- Ensure the ad is closely aligned with the user’s search intent.
+
+### 112. **What are the targeting options in Google Display Ads?**
+**Answer:** Google Display Ads offer several targeting options:
+- **Demographic targeting:** Age, gender, income, etc.
+- **Affinity audiences:** Users with specific interests and habits.
+- **Custom affinity audiences:** Tailor-made audiences based on user interests.
+- **In-market audiences:** Users actively looking for products or services like yours.
+- **Remarketing:** Target users who have previously visited your site.
+- **Placement targeting:** Choose specific websites or apps to display your ads.
+- **Contextual targeting:** Show ads based on the content of a webpage.
+
+### 113. **What is the Search Term Report in Google Ads, and how do you use it?**
+**Answer:** The Search Term Report shows the actual search queries that triggered your ads. You can use this report to:
+- Identify new keywords to add to your campaign.
+- Find irrelevant search terms and add them as negative keywords.
+- Optimize your ad copy and landing pages based on the intent behind the search queries.
+
+### 114. **What is a smart bidding strategy in Google Ads?**
+**Answer:** Smart bidding is an automated bidding strategy that uses machine learning to optimize your bids for conversions or conversion value in each auction. It adjusts bids in real-time based on factors like device, location, time of day, and user behavior. Examples include **Target CPA**, **Maximize Conversions**, and **Target ROAS**.
+
+### 115. **What are Google Shopping Ads?**
+**Answer:** Google Shopping Ads showcase product images, prices, and merchant information directly in search results. They are used by eCommerce businesses to promote products and drive traffic to their online stores. Shopping ads are triggered by product data from a Merchant Center feed, not by keywords.
+
+### 116. **What is impression share in Google Ads?**
+**Answer:** Impression share is the percentage of impressions your ad received compared to the total impressions it could have received. It’s calculated as **(Impressions / Total eligible impressions)**. A low impression share could indicate that your ad isn’t being shown as often as it could, possibly due to low budget or low Ad Rank.
+
+### 117. **How do you write effective ad copy for Google Ads?**
+**Answer:** To write effective ad copy:
+- Use the target keyword in the headline and description.
+- Focus on user intent and highlight key benefits.
+- Include a strong call-to-action (CTA), such as “Buy Now” or “Learn More.”
+- Use emotional or time-sensitive language to create urgency.
+- Ensure the ad is relevant to the landing page content.
+
+### 118. **What is ad scheduling in Google Ads?**
+**Answer:** Ad scheduling allows you to specify the days and times when your ads should appear. You can optimize your campaign by showing ads only during peak times when your audience is most likely to convert. This helps save budget and improves ROI by targeting users when they are more likely to engage.
+
+### 119. **What is a remarketing list for search ads (RLSA)?**
+**Answer:** Remarketing lists for search ads (RLSA) allow you to customize your search ad campaigns for users who have previously visited your website. You can adjust bids, create specific ads, or target different keywords for these users, helping to increase conversions by re-engaging potential customers.
+
+### 120. **How do you reduce CPC in Google Ads?**
+**Answer:** To reduce CPC (cost-per-click) in Google Ads:
+- Improve your **Quality Score** by optimizing ad relevance and landing page experience.
+- Use **negative keywords** to filter out irrelevant clicks.
+- Lower your bid or switch to a manual bidding strategy to control costs.
+- Target more specific long-tail keywords with lower competition.
+- Continuously optimize ad copy and test different formats to improve CTR.
+
+### 121. **What is the importance of the landing page in Google Ads?**
+**Answer:** The landing page is crucial in Google Ads because it directly impacts the **Quality Score**, user experience, and conversion rate. A well-optimized landing page ensures that users who click on your ad find relevant information and are more likely to convert, resulting in a better return on ad spend (ROAS).
+
+### 122. **What is Google Ads Editor, and how do you use it?**
+**Answer:** Google Ads Editor is a downloadable application that allows you to manage and edit Google Ads campaigns offline. It’s useful for making bulk changes, copying campaigns, and managing large accounts. You can upload your changes to Google Ads once you're back online.
+
+### 123. **What are conversion tracking pixels in Google Ads?**
+**Answer:** Conversion tracking pixels are small pieces of code placed on your website to track user actions, such as purchases, form submissions, or newsletter sign-ups. The data collected by the pixel is sent back to Google Ads to measure the effectiveness of your campaigns and optimize for conversions.
+
+### 124. **How do you set up conversion tracking in Google Ads?**
+**Answer:** To set up conversion tracking in Google Ads:
+1. Navigate to **Tools & Settings** in Google Ads.
+2. Select **Conversions** under the Measurement section.
+3. Create a new conversion action, such as a website purchase or lead form submission.
+4. Generate a conversion tracking tag (or pixel) and place it on the relevant conversion page of your website (e.g., the thank-you page).
+
+### 125. **How do you use negative keywords to improve Google Ads performance?**
+**Answer:** Negative keywords prevent your ads from showing for irrelevant searches. By adding negative keywords, you can focus your ad spend on more relevant queries, reducing wasted clicks and improving CTR and ROI. Regularly reviewing the **Search Term Report** can help identify terms that should be added as negative keywords.
+
+### 126. **What is enhanced CPC in Google Ads?**
+**Answer:** Enhanced CPC (ECPC) is a bidding strategy that automatically adjusts your manual bids to increase the likelihood of conversion. ECPC raises your bids for clicks that are likely to lead to conversions and lowers them for less likely conversions, helping to optimize campaign performance.
+
+### 127. **How do you optimize ad groups in Google Ads?**
+**Answer:** To optimize ad groups:
+- Use tightly themed keywords in each ad group.
+- Ensure the ad copy is relevant to the keywords.
+- Regularly test different ad copy variations (A/B testing).
+- Include **negative keywords** to filter out irrelevant traffic.
+- Monitor performance metrics (CTR, conversions, etc.) and adjust bids accordingly.
+
+### 128. **What is the role of ad extensions in improving Ad Rank?**
+**Answer:** Ad extensions improve Ad Rank by making your ad more informative and relevant, which enhances user experience. Extensions like sitelinks, callouts, and location extensions provide additional details, increasing the likelihood of a higher CTR, which can positively impact Ad Rank and reduce CPC.
+
+### 129. **How do you use Google Keyword Planner?**
+**Answer:** Google Keyword Planner is a tool that helps you discover new keyword ideas and get search volume and cost estimates. You can use it to:
+- Identify relevant keywords based on your product or service.
+- Assess search volume and competition levels.
+- Get cost-per-click (CPC) estimates for budgeting.
+- Create keyword lists for your Google Ads campaigns.
+
+### 130. **How do you optimize Google Ads for mobile devices?**
+**Answer:** To optimize Google Ads for mobile devices:
+- Use **mobile-preferred ads** with shorter, concise ad copy.
+- Optimize landing pages for mobile responsiveness and fast load times.
+- Implement **call extensions** and **location extensions** for local businesses.
+- Monitor mobile performance separately in the campaign reports.
+- Set **bid adjustments** to prioritize mobile traffic.
+
+### 131. **What is the difference between standard and accelerated ad delivery in Google Ads?**
+**Answer:**
+- **Standard delivery:** Google spreads your ad budget evenly throughout the day to ensure your ads show across various time periods.
+- **Accelerated delivery:** Google tries to show your ads as quickly as possible until your budget is depleted, useful for time-sensitive campaigns.
+
+### 132. **What is the impact of ad relevance on Quality Score in Google Ads?**
+**Answer:** Ad relevance is a component of the **Quality Score** that measures how closely your ad matches the intent behind a user’s search query. Higher ad relevance improves Quality Score, leading to better ad positioning and lower CPC.
+
+### 133. **What are Google AdSense and Google Ads, and how do they differ?**
+**Answer:**
+- **Google Ads:** An advertising platform where businesses pay to display ads on Google’s network.
+- **Google AdSense:** A program that allows website owners to earn money by displaying Google Ads on their site. Google matches ads to the website's content.
+
+### 134. **What is the difference between PPC and PPM in Google Ads?**
+**Answer:**
+- **PPC (Pay-per-click):** Advertisers pay each time someone clicks on their ad.
+- **PPM (Pay-per-thousand-impressions):** Advertisers pay based on the number of impressions (views) their ad receives, typically per thousand impressions.
+
+### 135. **What are the components of a Google Ads campaign?**
+**Answer:** A Google Ads campaign consists of:
+- **Campaign:** The highest level, where you set your objective (e.g., sales, leads).
+- **Ad groups:** Grouping of keywords and ads within the campaign.
+- **Keywords:** The terms that trigger your ads when users search.
+- **Ad copy:** The text or creative that users see.
+- **Bid strategy:** How you choose to pay for clicks or impressions.
+- **Ad extensions:** Additional information to improve the ad’s performance.
+- **Targeting options:** Audience settings like location, language, and demographics.
+
+### 136. **How do you use split testing (A/B testing) in Google Ads?**
+**Answer:** Split testing (A/B testing) in Google Ads involves creating different versions of an ad (e.g., varying the headlines, descriptions, or calls-to-action) to see which performs better. This allows you to optimize your campaign by identifying the elements that drive higher engagement or conversions.
+
+### 137. **What are sitelink extensions, and how do they work in Google Ads?**
+**Answer:** Sitelink extensions are additional links that appear beneath your ad, directing users to specific pages on your website (e.g., product pages, contact pages). They increase ad visibility and CTR by providing users with more options to engage with your site.
+
+### 138. **What are callout extensions in Google Ads, and when should you use them?**
+**Answer:** Callout extensions are additional text in your ad that highlight unique selling points, such as “Free Shipping” or “24/7 Customer Support.” They are used to provide more information and increase the relevance of your ad, encouraging users to click.
+
+### 139. **What is a bid adjustment in Google Ads, and how is it used?**
+**Answer:** Bid adjustments allow you to increase or decrease your bids based on specific factors like device, location, time of day, or audience. For example, you can raise your bid for mobile users or lower it during off-peak hours to optimize performance and budget.
+
+### 140. **What are responsive display ads in Google Ads, and how do they work?**
+**Answer:** Responsive display ads automatically adjust their size, format, and appearance to fit various ad spaces on the Google Display Network. You provide images, headlines, logos, and descriptions, and Google optimizes them to reach your target audience across different devices and placements.
+
