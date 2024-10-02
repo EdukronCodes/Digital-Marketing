@@ -1,5 +1,5 @@
 
-# 100 SEO Interview Questions and Answers
+# 300 SEO Interview Questions and Answers
 
 ### 1. **What is SEO?**
 **Answer:** SEO (Search Engine Optimization) is the process of optimizing a website or online content to improve its visibility and ranking on search engine result pages (SERPs). The goal is to attract organic traffic by making the content relevant to search queries.
